@@ -1,0 +1,22 @@
+{
+  "name": "new-sesrverles-functions",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topspeen/new-sesrverles-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topspeen/new-sesrverles-functions/issues"
+  },
+  "homepage": "https://github.com/topspeen/new-sesrverles-functions#readme",
+  "devDependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
