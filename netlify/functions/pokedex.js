@@ -1,7 +1,7 @@
-import fetch from 'node-fetch';
+const fetch = require('node-fetch');
 
 
-export async function handler() {
+exports.handler = async function() {
     const POKE_API = 'https://pokeapi.co/api/v2/pokedex/kanto'
 
     const response = await fetch(POKE_API);
